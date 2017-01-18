@@ -1,0 +1,9 @@
+{
+  "globalDevDependencies": {
+    "less": "registry:dt/less#0.0.0+20161212190028"
+  },
+  "globalDependencies": {
+    "redux": "registry:dt/redux#3.5.2+20160703092728",
+    "redux-thunk": "registry:dt/redux-thunk#2.1.0+20160703120921"
+  }
+}
