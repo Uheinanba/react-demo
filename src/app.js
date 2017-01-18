@@ -15,6 +15,7 @@ const rootRoute = {
   component: App,
   childRoutes: createRoutes(store)
 }
+console.log('test')
 
 render(
   <Root store={store} history={history} routes={rootRoute} />,
